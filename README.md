@@ -1,7 +1,6 @@
 # Project - Network Research
 
 ## Objective
-
 Summary - Part one of this project entails preparing a script with multiple stages:
 - To check for and install required applications such as sshpass and nipe. 
 - To make an anonymous connection via nipe. 
